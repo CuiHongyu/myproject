@@ -2,5 +2,6 @@
 int main()
 {
   printf("Hello,China!");
+  printf("Hello,Changchun");
   return 0;
 }
