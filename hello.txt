@@ -2,7 +2,7 @@
 int main()
 {
   printf("Hello,China!");
-  printf("Hello,Changchun");
+  printf("Hello,Changchun!");
   printf("Hello,everyone!");
   return 0;
 }
