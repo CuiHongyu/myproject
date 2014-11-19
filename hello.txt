@@ -1,8 +1,10 @@
 #include"stdio.h"
 int main()
 {
+  int a=1;
   printf("Hello,China!");
   printf("Hello,Changchun!");
   printf("Hello,everybody!");
+  printf("%d",a);
   return 0;
 }
